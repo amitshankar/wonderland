@@ -1,9 +1,6 @@
-Hello Again
-Updated order of files.  Again. 
-=======
-this is a test. ll
+Testing 
 
->>>>>>> 31cddc31d7fa6416fac9993996017d7bf256607e
+
 ### Render the book
 
 - [ ] 1. Install **bookdown** with `install.packages("bookdown")`. If you already have it, update to the [latest version](https://CRAN.R-project.org/package=bookdown).
